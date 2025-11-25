@@ -1,0 +1,13 @@
+title: "Abubakar Mahamoud"
+description: "Data science student at Harper Adams"
+theme: minima
+
+author:
+  name: "Abubakar Mahamoud"
+  email: "a.mahamoud177@gmail.com"
+
+header_pages:
+  - index.md
+
+github_username: amahamoud177
+linkedin_username: No linkedin (yet)
