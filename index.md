@@ -1,10 +1,11 @@
+---
 layout: home
 title: Home
 ---
 
 # Abubakar Mahamoud
 
-Northampton, United Kingdom · a.mahamoud177@gmail.com · [GitHub]https://github.com/amahamoud177 · [LinkedIn]https://www.linkedin.com/in/abubakar-mahamoud-39313433a/
+Northampton, United Kingdom · a.mahamoud177@gmail.com · [GitHub] https://github.com/amahamoud177 · [LinkedIn] https://www.linkedin.com/in/abubakar-mahamoud-39313433a/
 
 ---
 
