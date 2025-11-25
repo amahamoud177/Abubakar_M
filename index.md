@@ -34,8 +34,7 @@ operations.
 *Harper Adams University*  
 *2025 – 2028 (Expected)*
 
-- **Relevant Modules:** Applied Statistics, Machine Learning, Database Management, GIS.
-- **Project:** "Predicting Soil Health using Satellite Imagery and Machine Learning".
+- **Relevant Modules (Year 1):** Computing Technology, Data Visualisation, Professional and Study skills
 
 ## Skills
 
